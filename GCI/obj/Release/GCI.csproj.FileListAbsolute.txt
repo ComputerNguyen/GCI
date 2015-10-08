@@ -1,0 +1,9 @@
+C:\Users\TBK\Documents\GitHub\GCI\GCI\bin\Release\GCI.exe.config
+C:\Users\TBK\Documents\GitHub\GCI\GCI\bin\Release\GCI.exe
+C:\Users\TBK\Documents\GitHub\GCI\GCI\bin\Release\GCI.pdb
+C:\Users\TBK\Documents\GitHub\GCI\GCI\obj\Release\GCI.csprojResolveAssemblyReference.cache
+C:\Users\TBK\Documents\GitHub\GCI\GCI\obj\Release\GCI.GCImain.resources
+C:\Users\TBK\Documents\GitHub\GCI\GCI\obj\Release\GCI.Properties.Resources.resources
+C:\Users\TBK\Documents\GitHub\GCI\GCI\obj\Release\GCI.csproj.GenerateResource.Cache
+C:\Users\TBK\Documents\GitHub\GCI\GCI\obj\Release\GCI.exe
+C:\Users\TBK\Documents\GitHub\GCI\GCI\obj\Release\GCI.pdb

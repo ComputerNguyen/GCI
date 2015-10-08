@@ -1,0 +1,21 @@
+C:\Users\TBK\Desktop\Project\GCI\GCI\bin\Debug\GCI.exe.config
+C:\Users\TBK\Desktop\Project\GCI\GCI\bin\Debug\GCI.exe
+C:\Users\TBK\Desktop\Project\GCI\GCI\bin\Debug\GCI.pdb
+C:\Users\TBK\Desktop\Project\GCI\GCI\obj\Debug\GCI.csprojResolveAssemblyReference.cache
+C:\Users\TBK\Desktop\Project\GCI\GCI\obj\Debug\GCI.GCImain.resources
+C:\Users\TBK\Desktop\Project\GCI\GCI\obj\Debug\GCI.Properties.Resources.resources
+C:\Users\TBK\Desktop\Project\GCI\GCI\obj\Debug\GCI.csproj.GenerateResource.Cache
+C:\Users\TBK\Desktop\Project\GCI\GCI\obj\Debug\GCI.exe
+C:\Users\TBK\Desktop\Project\GCI\GCI\obj\Debug\GCI.pdb
+C:\Users\TBK\Documents\Visual Studio 2015\Projects\GitHub\GCI\GCI\bin\Debug\GCI.exe.config
+C:\Users\TBK\Documents\Visual Studio 2015\Projects\GitHub\GCI\GCI\obj\Debug\GCI.exe
+C:\Users\TBK\Documents\Visual Studio 2015\Projects\GitHub\GCI\GCI\obj\Debug\GCI.pdb
+C:\Users\TBK\Documents\Visual Studio 2015\Projects\GitHub\GCI\GCI\bin\Debug\GCI.exe
+C:\Users\TBK\Documents\Visual Studio 2015\Projects\GitHub\GCI\GCI\bin\Debug\GCI.pdb
+C:\Users\TBK\Documents\Visual Studio 2015\Projects\GitHub\GCI\GCI\obj\Debug\GCI.csprojResolveAssemblyReference.cache
+C:\Users\TBK\Documents\Visual Studio 2015\Projects\GitHub\GCI\GCI\obj\Debug\GCI.GCImain.resources
+C:\Users\TBK\Documents\Visual Studio 2015\Projects\GitHub\GCI\GCI\obj\Debug\GCI.Properties.Resources.resources
+C:\Users\TBK\Documents\Visual Studio 2015\Projects\GitHub\GCI\GCI\obj\Debug\GCI.csproj.GenerateResource.Cache
+C:\Users\TBK\Documents\GitHub\GCI\GCI\bin\Debug\GCI.exe.config
+C:\Users\TBK\Documents\GitHub\GCI\GCI\obj\Debug\GCI.exe
+C:\Users\TBK\Documents\GitHub\GCI\GCI\obj\Debug\GCI.pdb
